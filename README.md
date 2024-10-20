@@ -15,9 +15,3 @@ The solution features the Antugrow Farmer's mobile app for secure management of 
 - **User-Friendly Interface**: Simple interface for farmers to manage their credentials.
 - **OnchainKit by BASE**: Toolkit to manage the investment module and Smart Contracts deployment via BASE.
 - **Web3JS**: JS functionality used for Paymaster integration with OnchainKit.
-
-![image](https://github.com/user-attachments/assets/47c1face-99c0-4e44-8a2f-6bf09278f8f9)
-
-<div align="center">
-<p><i>How Antugrow handles flow of Data and Relationships between farmers and investors</i></p>
-</div>
