@@ -7,7 +7,7 @@ The platform digitizes farm records into Verifiable Credentials ("Badges") for c
 
 Through Antugrow, farmers are supported to uphold best practices for maximum yields while Investors get access to a trusted path for deployment of investment.
 
-## EthSafari Hackathon 2024
+## Base Buildathon 2024
 In line with the theme of creating Africa's innovations, Antugrow's vision is to Connect Capital to any farmer in the World.
 
 This project aims to provide a system for farmers to obtain verifiable credentials based on their farm activities. By leveraging blockchain technology, we ensure that the credentials are secure, tamper-proof, and easily accessible.
